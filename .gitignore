@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+*.pyc
+.deepeval/
+.deepeval-cache.json
+OpenAI_Secret_key.txt
+OpenAI Secret key.txt
