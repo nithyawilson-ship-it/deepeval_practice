@@ -1,0 +1,9 @@
+deepeval
+langchain
+langchain-openai
+langchain-anthropic
+langgraph
+langchain-core
+langchain_huggingface
+openai
+python-dotenv
